@@ -1,3 +1,15 @@
 body {
     background-color: aqua;
+    color: aquamarine;
+}
+
+header {
+    background-color: black;
+    color: aliceblue;
+}
+
+header h1 {
+    text-align: center;
+    font-size: 50px;
+
 }
