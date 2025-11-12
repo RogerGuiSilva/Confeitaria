@@ -4,8 +4,8 @@
 }
 
 header {
-  background-color: #f8b400;
-  color: white;
+  background-color: #f80000;
+  color: rgb(7, 0, 0);
   height: 150px;
   display: flex;
   justify-content: center;
