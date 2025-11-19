@@ -1,7 +1,7 @@
 * {
   margin: 0;
   padding: 0;
-  font-family: 'Google Sans Code' sans-serif;
+   font-family: 'Google Sans Code', sans-serif;
 }
 
 header {
@@ -67,7 +67,7 @@ img {
 .descricao {
   margin-bottom: 10px;
   font-size: 16px;
-  color: #ffffff;
+  color: #050000;
 }
 
 .img-item {
