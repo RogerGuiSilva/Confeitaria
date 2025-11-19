@@ -67,7 +67,7 @@ img {
 .descricao {
   margin-bottom: 10px;
   font-size: 16px;
-  color: #ffffff;
+  color: #f90000;
 }
 
 .img-item {
@@ -85,7 +85,7 @@ h3 {
 
 footer {
   background-color: #ff0303;
-  color: white;
+  color: rgb(0, 0, 0);
   height: 50px;
   display: flex;
   align-items: center;
