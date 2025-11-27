@@ -27,3 +27,13 @@ criarItemCardapio(
     'bolo de chocolate', 'Um Classico irresistivel com camadas de chocolate', 'https://comidinhasdochef.com/wp-content/uploads/2019/08/Bolo-de-Chocolate-sem-Batedeira.jpg'
 )
 
+criarItemCardapio(
+    '>Bolo de Morango', 'Fresco e Frutado estilo Pica Pau', 'https://i.pinimg.com/564x/c1/1c/a7/c11ca74d5d3c447e9c43d3283fca3ee1.jpg'
+
+)
+
+criarItemCardapio(
+    '>Bolo de Cenoura', 'bolo que lembra um café da manhã com a vovó', 'https://bolosparavender.com/wp-content/uploads/2025/04/cobertura-para-bolo-de-cenoura-simples.jpg'
+)
+
+
